@@ -1,2 +1,2 @@
-# REACTJS-MAP-FILTER-REDUCE-FIND-FINDINDEX
+# ReactJS-map-filter-reduce
 Created with CodeSandbox
